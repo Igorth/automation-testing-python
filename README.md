@@ -1,5 +1,7 @@
 # Automation Testing Frameworks Python
 
+![Automation Testing Demo](automation.gif)
+
 This repository demonstrates how to use different testing frameworks in Python to automate the verification of a simple ToDo application.
 The tests were executed on the [LambdaTest](https://www.lambdatest.com/) Automation platform, allowing them to run in different cloud environments.
 
