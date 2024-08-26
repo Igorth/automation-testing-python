@@ -1,4 +1,9 @@
 # Automation Testing Frameworks Python
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![unittest](https://img.shields.io/badge/Testing-unittest-red.svg)
+![pytest](https://img.shields.io/badge/Testing-pytest-orange.svg)
+![behave](https://img.shields.io/badge/Testing-behave-green.svg)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-LambdaTest-yellow.svg)
 
 ![Automation Testing Demo](automation.gif)
 
